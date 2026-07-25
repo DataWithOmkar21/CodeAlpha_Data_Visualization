@@ -27,5 +27,14 @@ Developed an interactive Power BI dashboard to analyze sales performance, produc
 Omkar Kurane
 
 
+### Dashboard Screenshots
 
+### Sales Overview
+![Sales Overview](Overview.png)
+
+### Product Analysis
+![Product Analysis](ProductAnalysis.png)
+
+### Executive Performance
+![Executive Performance](Executive_Performance.png)
 
