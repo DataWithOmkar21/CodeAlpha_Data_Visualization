@@ -33,7 +33,7 @@ Omkar Kurane
 ![Sales Overview](Overview.png)
 
 ### Product Analysis
-![Product Analysis](ProductAnalysis.png)
+![Product Analysis](Product_Analysis.png)
 
 ### Executive Performance
 ![Executive Performance](Executive_Performance.png)
